@@ -1,0 +1,22 @@
+{
+  "name": "openshift-jp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:idevN/nodejs-ex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idevN/nodejs-ex/issues"
+  },
+  "homepage": "https://github.com/idevN/nodejs-ex#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
